@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva Deshmukh</h1>
+<h1 align="center">Hi, I'm Atharva Deshmukh</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
 - 🌱 I’m learning **How to make AI do better work then me!**
