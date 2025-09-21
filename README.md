@@ -16,7 +16,7 @@
 
 <h3 align="left">Let's Connect on:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/atharva deshmukh](https://www.linkedin.com/in/atharva-deshmukh-531297273)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva deshmukh" height="30" width="40" /></a> <a href="https://twitter.com/@atharvaud_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@atharvaud_29" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atharva-deshmukh-531297273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva deshmukh" height="30" width="40" /></a> <a href="https://twitter.com/@atharvaud_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@atharvaud_29" height="30" width="40" /></a>
 </p>
 
 - 📫 Reach Me **atharvaudeshmukh89@gmail.com** , **athubaba11@gmail.com**
